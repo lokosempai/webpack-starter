@@ -1,5 +1,7 @@
 
-
+#ignora la carpeta 
 node_modules/
 
+#ignora la carpeta
 dist/
+
